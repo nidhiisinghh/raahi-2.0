@@ -1,4 +1,8 @@
+
 The Raahi Website an initiative by team "TaRhyNi" is designed to provide an intuitive interface for a public commute app tailored to students and urban commuters. It connects users to carpooling options, fare management, route planning, and event discovery, promoting efficient and sustainable travel.
+
+<img width="1469" alt="Screenshot 2024-11-30 at 8 29 31 AM" src="https://github.com/user-attachments/assets/a30c7f12-ed3a-44ab-9e8f-cf3866b0570c">
+
 
 This project implements a modern, responsive design with clean aesthetics and efficient functionality. The code includes HTML and CSS, with JavaScript integration recommended for interactive and dynamic features.
 
@@ -52,3 +56,6 @@ Features
 │   ├── features/    # Icons for features
 │   └── about/       # Miscellaneous visuals
 └── scripts/         # (Optional) Folder for JavaScript files
+
+
+
